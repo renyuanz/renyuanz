@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **renyuanz/renyuanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi There 👋
+
+My name is Renyuan Zou (a.k.a renyuanz).
+
+- ⚡ I’m a single threaded non blocking io fullstack engineer
+- 📫 Reach me on twitter @ry_zou
+
+[![renyuanz's github stats](https://github-readme-stats.vercel.app/api?username=renyuanz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
