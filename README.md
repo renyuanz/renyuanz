@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Renyuan Zou (a.k.a renyuanz).
 
-- ⚡ I’m a single threaded non blocking io fullstack engineer
+- ⚡ I’m a single threaded non blocking io engineer
 - 📫 Reach me on twitter [@ry_zou](https://twitter.com/ry_zou)
 
 [![renyuanz's github stats](https://github-readme-stats.vercel.app/api?username=renyuanz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
