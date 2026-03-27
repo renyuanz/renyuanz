@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 My name is Renyuan Zou (a.k.a renyuanz).
 
 - ⚡ I’m a single threaded non blocking io engineer
-- 📫 Reach me on twitter [@ry_zou](https://twitter.com/ry_zou)
+- 📫 Reach me on twitter [@renyuanz](https://twitter.com/renyuanz)
